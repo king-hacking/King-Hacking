@@ -6,7 +6,11 @@
    kinig hacking is a tool which can allow you to perform various attacks such as .....
         ***WEB ATTAKCS 
         ***WIFI ATTACK 
-        ***PAYLOAD ATTACK
+        ***PAYLOAD ATTACK  
+  
+  "ITS A MUCH HAVE TOOL FOR LINUX AND PEOPLE IN THE SEARCH OF PENTESTIING"  
+                    
+                    ***REALLY SIMPLE AND DYNAMIC***
  
  
  
